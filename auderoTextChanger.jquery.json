@@ -1,0 +1,42 @@
+{
+    "name": "auderoTextChanger",
+    "version": "1.0.0",
+    "title": "Audero Text Changer",
+    "author": {
+        "name": "Aurelio De Rosa",
+		  "email": "aurelioderosa@gmail.com",
+        "url": "http://www.audero.it"
+    },
+    "licenses": [
+         {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        },
+        {
+            "type": "GPL-3.0",
+            "url": "http://opensource.org/licenses/GPL-3.0"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.6.4",
+        "jquery-mobile": ">=1.0.1"
+    },
+    "description": "Audero Text Changer is a very lightweight (minimized version is less than 1Kb) jQuery Mobile plugin that allows you to easily change the text of all the elements of your pages without breaking the enhancements made by the framework. Sometimes you need to change the text inside elements, for example a <button> or an <a>. As you might know, while the links are rendered as buttons, they aren't actually buttons and, for this reason, the button widget doesn't apply to them. This means that you can't change the text directly and then use the method button('refresh') to redraw the button. To manage this and other situations, you can rely on Audero Text Changer.",
+    "keywords": [
+        "text",
+        "text-changer",
+        "mobile",
+        "utility"
+    ],
+    "homepage": "https://github.com/AurelioDeRosa/Audero-Text-Changer",
+    "docs": "https://github.com/AurelioDeRosa/Audero-Text-Changer",
+    "demo": "https://github.com/AurelioDeRosa/Audero-Text-Changer",
+    "bugs": "https://github.com/AurelioDeRosa/Audero-Text-Changer/issues",
+    "maintainers": [
+        {
+            "name": "Aurelio De Rosa",
+				"email": "aurelioderosa@gmail.com",
+				"url": "http://www.audero.it"
+        }
+    ]
+}
