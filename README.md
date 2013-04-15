@@ -3,6 +3,9 @@
 
 Sometimes you need to change the text inside elements, for example a `<button>` or an `<a>`. As you might know, while the links are rendered as buttons, they aren't actually buttons and, for this reason, the button widget doesn't apply to them. This means that you can't change the text directly and then use the method `button('refresh')` to redraw the button. To manage this and other situations, you can rely on Audero Text Changer.
 
+## Demo ##
+A live demo is available [here](http://htmlpreview.github.io/?https://github.com/AurelioDeRosa/Audero-Text-Changer/blob/master/demo/index.html).
+
 ## Requirements ##
 Being a jQuery Mobile plugin, the only requirement is [jQuery Mobile](http://jquerymobile.com) which, of course, depends on [jQuery](http://www.jquery.com).
 
